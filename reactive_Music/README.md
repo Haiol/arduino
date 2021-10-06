@@ -1,6 +1,6 @@
 !사용한 센서
 
-![image](https://user-images.githubusercontent.com/41848169/136145954-09442484-12d4-4e42-9575-48c8ddc91925.png){:width="50" height="50"}
+<img src="https://user-images.githubusercontent.com/41848169/136145954-09442484-12d4-4e42-9575-48c8ddc91925.png" width="50" height="50"/>
 LED Strpes
 
 ![image](https://user-images.githubusercontent.com/41848169/136146012-ac581054-5f93-4971-8315-7bcc1920e26d.png)
